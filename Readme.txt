@@ -13,4 +13,4 @@ Environmental information for "push-up" and "drunken walking" are:
 "drunken walking": Gender: Male. Weather: Cloudy. Time: 19:03. Location: Mountain.
 
 We have also uploaded the code for training different backbone models on GTA-MMP. For details regarding the specific configuration and usage of the backbone network in the code, please refer to the documentation for the baseline model, MotionBERT, at: https://github.com/Walter0807/MotionBERT/tree/main. Building on this, we have added code to the "model" folder that allows for the integration of other skeleton-based human action recognition backbone networks.
-<video src="./pushup_001.mp4" controls="controls" width="600" height="400"></video>
+
