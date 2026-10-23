@@ -1,6 +1,6 @@
 Description of Code and Data Supplement:
 
-We select the "push-up" (named "pushup") and "drunken walking" (named "drunk") actions for demonstration purposes. 
+We select the "push-up" (named "pushup") and "drunken walking" (named "drunk") actions for demonstration purposes. For more actions, please contact hangeng5446@163.com.
 
 Each action includes RGB videos, images, and CSV files for seven perspectives, with the first six (001 to 006) being fixed perspectives and the seventh (007) being a motion perspective. 
 
