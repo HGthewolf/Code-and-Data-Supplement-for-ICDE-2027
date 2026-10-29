@@ -16,7 +16,7 @@ Environmental information for "push-up" and "drunken walking" are:
 
 We have also uploaded the code for training different backbone models on GTA-MMP. For details regarding the specific configuration and usage of the backbone network in the code, please refer to the documentation for the baseline model, MotionBERT, at: https://github.com/Walter0807/MotionBERT/tree/main. Building on this, we have added code to the "model" folder that allows for the integration of other skeleton-based human action recognition backbone networks.
 
-We present videos of "push-up" and "drunken walking" from various perspectives. Due to GitHub's file size upload limits, each video has been compressed to under 10 MB.:
+We present videos of "push-up" and "drunken walking" from various perspectives. Due to GitHub's file size upload limits, each video has been compressed to under 10 MB:
 
 push-up_001: https://github.com/HGthewolf/Code-and-Data-Supplement-for-ICDE-2027/issues/7
 
