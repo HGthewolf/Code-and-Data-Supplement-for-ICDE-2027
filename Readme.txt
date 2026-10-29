@@ -2,7 +2,8 @@ Description of Code and Data Supplement:
 
 Please download "Code and Data Supplement.zip" to view the relevant materials of the GTA-MMP dataset and code in detail.
 
-We select the "push-up" (named "pushup") and "drunken walking" (named "drunk") actions for demonstration purposes. For more examples, please contact authors via email.
+We select the "push-up" (named "pushup") and "drunken walking" (named "drunk") actions for demonstration purposes. 
+% For more examples, please contact authors via email.
 
 Each action includes RGB videos, images, and CSV files for seven perspectives, with the first six (001 to 006) being fixed perspectives and the seventh (007) being a motion perspective. 
 
