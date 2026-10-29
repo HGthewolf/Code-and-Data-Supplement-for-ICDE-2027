@@ -18,4 +18,4 @@ We have also uploaded the code for training different backbone models on GTA-MMP
 
 https://github.com/HGthewolf/Code-and-Data-Supplement-for-ICDE-2027/issues/1#issue-6098529421
 
-[!pushup]https://github.com/HGthewolf/Code-and-Data-Supplement-for-ICDE-2027/blob/main/pushup_001%2000_00_00-00_00_30.gif
+![pushup]https://github.com/HGthewolf/Code-and-Data-Supplement-for-ICDE-2027/blob/main/pushup_001%2000_00_00-00_00_30.gif
