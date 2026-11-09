@@ -1,6 +1,6 @@
 Description of Code and Data Supplement:
 
-Please download "Code and Data Supplement.zip" to view the relevant materials of the GTA-MMP dataset and code in detail.
+Please download "Code and Data Supplement.zip" to view the relevant materials of the GTA-MMP dataset and code in detail. Due to GitHub's file size limits, we have uploaded the "Code and Data Supplement.zip" to Google Drive. The download link is: https://drive.google.com/file/d/14MuG7ge5WUoAIx1X_RGYVeoajc-HocJA/view?usp=sharing
 
 We select the "push-up" (named "pushup") and "drunken walking" (named "drunk") actions for demonstration purposes. 
 
