@@ -2,7 +2,7 @@ Description of Code and Data Supplement:
 
 Please download "Code and Data Supplement.zip" to view the GTA-MMP dataset and code in detail. Due to GitHub's file size limits, we have uploaded the "Code and Data Supplement.zip" to Google Drive. The download link is: https://drive.google.com/file/d/14MuG7ge5WUoAIx1X_RGYVeoajc-HocJA/view?usp=sharing
 
-We select the "push-up" (named "pushup") and "drunken walking" (named "drunk") actions for demonstration purposes. 
+From 135 actions in GTA-MMP, we select the "push-up" (named "pushup") and "drunken walking" (named "drunk") actions for demonstration purposes. 
 
 Each action includes RGB videos, images, and CSV files for seven perspectives, with the first six (001 to 006) being fixed perspectives and the seventh (007) being a motion perspective. 
 
