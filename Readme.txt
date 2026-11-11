@@ -46,4 +46,4 @@ drunken walking_006: https://github.com/HGthewolf/Code-and-Data-Supplement-for-I
 
 drunken walking_007: https://github.com/HGthewolf/Code-and-Data-Supplement-for-ICDE-2027/issues/8
 
-If you only need to view the CSV files corresponding to these two actions, you can download them from GitHub: 
+If you only need to view the CSV files corresponding to these two actions, you can download them from GitHub: https://github.com/HGthewolf/Code-and-Data-Supplement-for-ICDE-2027/blob/main/CSV%20of%20examples.zip
