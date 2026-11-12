@@ -1,6 +1,12 @@
-Description of Code and Data Supplement:
+Description of Code Supplement.zip (Download link: ):
 
-Please download "Code and Data Supplement.zip" to view the GTA-MMP dataset and code in detail. Due to GitHub's file size limits, we have uploaded the "Code and Data Supplement.zip" to Google Drive. The download link is: https://drive.google.com/file/d/14MuG7ge5WUoAIx1X_RGYVeoajc-HocJA/view?usp=sharing
+Please download "Code Supplement.zip" to view the code for training different backbone models on GTA-MMP in detail. Due to GitHub's file size limits, we have uploaded the "Code Supplement.zip" to Google Drive. For details regarding the runtime environment configuration for the code, please refer to the documentation for the baseline model, MotionBERT, available at: https://github.com/Walter0807/MotionBERT/tree/main.
+
+Description of Data Supplement.zip (Download link: ):
+
+Since GTA-MMP contains high-resolution images and videos, the dataset is quite large. Therefore, we have only uploaded the CSV files necessary for training. Please download and extract them into the "dataset" folder. Additionally, we have provided the complete data for two actions as examples, which can be accessed by downloading "Examples of GTA-MMP.zip".
+
+Description of Examples of GTA-MMP.zip (Download link: ):
 
 From 135 actions in GTA-MMP, we select the "push-up" (named "pushup") and "drunken walking" (named "drunk") actions for demonstration purposes. 
 
@@ -13,8 +19,6 @@ Environmental information for "push-up" and "drunken walking" are:
 "push-up": Gender: Female. Weather: Thunder. Time: 22:09. Location: City.
 
 "drunken walking": Gender: Male. Weather: Cloudy. Time: 19:03. Location: Mountain.
-
-We have also uploaded the code for training different backbone models on GTA-MMP. For details regarding the specific configuration and usage of the backbone network in the code, please refer to the documentation for the baseline model, MotionBERT, at: https://github.com/Walter0807/MotionBERT/tree/main. Building on this, we have added code to the "model" folder that allows for the integration of other skeleton-based human action recognition backbone networks.
 
 We present videos of "push-up" and "drunken walking" from various perspectives. Due to GitHub's file size upload limits, each video has been compressed to under 10 MB:
 
@@ -45,5 +49,3 @@ drunken walking_005: https://github.com/HGthewolf/Code-and-Data-Supplement-for-I
 drunken walking_006: https://github.com/HGthewolf/Code-and-Data-Supplement-for-ICDE-2027/issues/9
 
 drunken walking_007: https://github.com/HGthewolf/Code-and-Data-Supplement-for-ICDE-2027/issues/8
-
-If you only need to view the CSV files corresponding to these two actions, you can download the "CSV of examples.zip" from GitHub: https://github.com/HGthewolf/Code-and-Data-Supplement-for-ICDE-2027/blob/main/CSV%20of%20examples.zip
