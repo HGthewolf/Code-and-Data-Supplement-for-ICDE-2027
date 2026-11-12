@@ -4,7 +4,7 @@ Please download "Code Supplement.zip" to view the code for training different ba
 
 Description of "Data Supplement.zip" (Download link: https://drive.google.com/file/d/1bnqjPWxEvEZGQ9WyjREIUw2YVmEV_fZu/view?usp=drive_link):
 
-Please download "Data Supplement.zip" to view the GTA-MMP dataset in detail. Since GTA-MMP contains high-resolution images and videos, the dataset is quite large. Therefore, we have uploaded only the CSV files necessary for training. Please download and extract them into the "dataset" folder. Additionally, we have provided the complete data for two actions as examples, which can be accessed by downloading "Examples of GTA-MMP.zip".
+Please download "Data Supplement.zip" to view the GTA-MMP dataset in detail. Since GTA-MMP contains high-resolution images and videos, the dataset is quite large. Therefore, we have uploaded the CSV files corresponding to all actions in GTA-MMP. Please download and extract them into the "dataset" folder. Additionally, we have provided the complete data for two actions as examples, which can be accessed by downloading "Examples of GTA-MMP.zip".
 
 Description of "Examples of GTA-MMP.zip" (Download link: https://drive.google.com/file/d/1PvyIra7Q69ICN4pvnMhnukxEjEBXPAER/view?usp=drive_link):
 
