@@ -1,6 +1,6 @@
 Description of Code Supplement.zip (Download link: https://drive.google.com/file/d/1HphnQYRYdxPHBY120-G7ICwvMiqdhSbT/view?usp=drive_link):
 
-Please download "Code Supplement.zip" to view the code for training different backbone models on GTA-MMP in detail. Due to GitHub's file size limits, we have uploaded the "Code Supplement.zip" to Google Drive. For details regarding the runtime environment configuration for the code, please refer to the documentation for the baseline model, MotionBERT, available at: https://github.com/Walter0807/MotionBERT/tree/main. Detailed information about the code can be found in the accompanying Readme file.
+Please download "Code Supplement.zip" to view the code for training different backbone models on GTA-MMP in detail. Due to GitHub's file size limits, we have uploaded the "Code Supplement.zip" to Google Drive. For details regarding the runtime environment configuration for the code, please refer to the documentation for the baseline model, MotionBERT, available at: https://github.com/Walter0807/MotionBERT/tree/main. Detailed information about the code can be found in the accompanying Readme file in "Code Supplement.zip".
 
 Description of Data Supplement.zip (Download link: https://drive.google.com/file/d/1bnqjPWxEvEZGQ9WyjREIUw2YVmEV_fZu/view?usp=drive_link):
 
