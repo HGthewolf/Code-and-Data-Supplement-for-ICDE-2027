@@ -1,12 +1,12 @@
-Description of Code Supplement.zip (Download link: ):
+Description of Code Supplement.zip (Download link: https://drive.google.com/file/d/1HphnQYRYdxPHBY120-G7ICwvMiqdhSbT/view?usp=drive_link):
 
-Please download "Code Supplement.zip" to view the code for training different backbone models on GTA-MMP in detail. Due to GitHub's file size limits, we have uploaded the "Code Supplement.zip" to Google Drive. For details regarding the runtime environment configuration for the code, please refer to the documentation for the baseline model, MotionBERT, available at: https://github.com/Walter0807/MotionBERT/tree/main.
+Please download "Code Supplement.zip" to view the code for training different backbone models on GTA-MMP in detail. Due to GitHub's file size limits, we have uploaded the "Code Supplement.zip" to Google Drive. For details regarding the runtime environment configuration for the code, please refer to the documentation for the baseline model, MotionBERT, available at: https://github.com/Walter0807/MotionBERT/tree/main. Detailed information about the code can be found in the accompanying Readme file.
 
-Description of Data Supplement.zip (Download link: ):
+Description of Data Supplement.zip (Download link: https://drive.google.com/file/d/1bnqjPWxEvEZGQ9WyjREIUw2YVmEV_fZu/view?usp=drive_link):
 
 Since GTA-MMP contains high-resolution images and videos, the dataset is quite large. Therefore, we have only uploaded the CSV files necessary for training. Please download and extract them into the "dataset" folder. Additionally, we have provided the complete data for two actions as examples, which can be accessed by downloading "Examples of GTA-MMP.zip".
 
-Description of Examples of GTA-MMP.zip (Download link: ):
+Description of Examples of GTA-MMP.zip (Download link: https://drive.google.com/file/d/1PvyIra7Q69ICN4pvnMhnukxEjEBXPAER/view?usp=drive_link):
 
 From 135 actions in GTA-MMP, we select the "push-up" (named "pushup") and "drunken walking" (named "drunk") actions for demonstration purposes. 
 
